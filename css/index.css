@@ -57,7 +57,7 @@ html, body {
 }
 /*--audio--*/
 .audio{
-    display: none;
+    display: block;
     position: absolute;
     top: .2rem;
     right: .2rem;
